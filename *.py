@@ -10,7 +10,7 @@ while num >= 0:
 
 print('Goodbye.')
 
-
+///////////////////////////////////////
 Enter an integer (negative to quit):
 Depicted graphically:
 * * * * * 
