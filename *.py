@@ -9,3 +9,15 @@ while num >= 0:
         print('\n')
 
 print('Goodbye.')
+
+
+Enter an integer (negative to quit):
+Depicted graphically:
+* * * * * 
+
+Enter an integer (negative to quit):
+Depicted graphically:
+* * * * * * * * * * 
+
+Enter an integer (negative to quit):
+Goodbye.
